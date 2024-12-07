@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudApp-AJAX-JQUERY", "CrudApp-AJAX-JQUERY\CrudApp-AJAX-JQUERY.csproj", "{46AC4F13-0D30-4960-B29A-56E9C2CAEF25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{1EE702DE-62DF-4CFE-B675-4BEAB5EC5BA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayer", "BusinessLayer\BusinessLayer.csproj", "{BDFE9281-F79B-43A4-B7C7-AFB07AB5824B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlobalEntity", "GlobalEntity\GlobalEntity.csproj", "{59328E7D-7488-4BA0-9E1D-D2D31A1E65E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46AC4F13-0D30-4960-B29A-56E9C2CAEF25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46AC4F13-0D30-4960-B29A-56E9C2CAEF25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46AC4F13-0D30-4960-B29A-56E9C2CAEF25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46AC4F13-0D30-4960-B29A-56E9C2CAEF25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EE702DE-62DF-4CFE-B675-4BEAB5EC5BA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EE702DE-62DF-4CFE-B675-4BEAB5EC5BA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EE702DE-62DF-4CFE-B675-4BEAB5EC5BA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EE702DE-62DF-4CFE-B675-4BEAB5EC5BA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDFE9281-F79B-43A4-B7C7-AFB07AB5824B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDFE9281-F79B-43A4-B7C7-AFB07AB5824B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDFE9281-F79B-43A4-B7C7-AFB07AB5824B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDFE9281-F79B-43A4-B7C7-AFB07AB5824B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59328E7D-7488-4BA0-9E1D-D2D31A1E65E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59328E7D-7488-4BA0-9E1D-D2D31A1E65E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59328E7D-7488-4BA0-9E1D-D2D31A1E65E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59328E7D-7488-4BA0-9E1D-D2D31A1E65E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F701CC56-098D-4341-BC23-1F229504F140}
+	EndGlobalSection
+EndGlobal
